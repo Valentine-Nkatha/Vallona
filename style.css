@@ -1,0 +1,62 @@
+#topnav{
+    border: 2px solid;
+    background-color: green;
+    color: white;
+}
+#nav{
+    display: flex;
+    justify-content: space-around;
+}
+#words{
+    background-image: url("Images/picture1.jpeg");
+}
+#Words{
+    display: flex;
+    justify-content: space-around;
+
+}
+#Box{
+    display: flex;
+    justify-content: center
+}
+#box{
+    display: flex;
+    justify-content: center;
+}
+#Container{
+    display: flex;
+    justify-content: space-around;
+}
+#Containers{
+    display: flex;
+    justify-content: space-around;
+}
+#Image{
+    display: flex;
+    float: top-right;
+}
+#girl{
+    display: flex;
+    float: left;
+}
+#buttons{
+    background-color: green;
+    color: white;
+}
+#end{
+    display: flex;
+    justify-content:space-around
+}
+#boy{
+    display: flex;
+    justify-content: space-around;
+}
+@media
+    (min-width: 250px){
+
+    }
+    #topnav{
+        padding: 8px;
+    }
+
+
